@@ -33,4 +33,4 @@ key pair generated on the device.
 | [sensmos-store-desktop](https://github.com/sensmos-network/sensmos-store-desktop) | Desktop client for Sensmos Store — encrypted backup on other node owners' disks |
 | [sensmos-protocol](https://github.com/sensmos-network/sensmos-protocol) | GALU token and the on-chain reward pool |
 
-[sensmos.com](https://sensmos.com) · [Live map](https://sensmos.com/map/) · [Flash a node](https://sensmos.com/flash/) · [Docs](https://sensmos.com/docs/)
+[sensmos.com](https://sensmos.com) · [Live map](https://sensmos.com/map/) · [Flash a node](https://sensmos.com/flash/) · [Docs](https://sensmos.com/docs/) · [Discord](https://discord.gg/ukea386Kqx) · [X](https://x.com/WGaluszewski)
